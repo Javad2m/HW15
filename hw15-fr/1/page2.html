@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles2.css" />
+    <title>انتقال وجه</title>
+  </head>
+  <body>
+    <div class="transfer-container">
+      <h2>انتقال وجه</h2>
+      <form action="/transfer" method="POST">
+        <input
+          type="text"
+          name="sourceCard"
+          placeholder="شماره کارت مبدا"
+          required
+        />
+        <input
+          type="text"
+          name="destinationCard"
+          placeholder="شماره کارت مقصد"
+          required
+        />
+        <input type="number" name="amount" placeholder="مبلغ (ریال)" required />
+        <button type="submit">انجام انتقال</button>
+      </form>
+      <p>لطفاً اطلاعات انتقال را با دقت وارد کنید.</p>
+    </div>
+  </body>
+</html>

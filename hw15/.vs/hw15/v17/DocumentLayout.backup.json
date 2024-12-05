@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|c:\\users\\notebook\\desktop\\hw - 15\\hw15\\hw15\\contract\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|solutionrelative:hw15\\contract\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|c:\\users\\notebook\\desktop\\hw - 15\\hw15\\hw15\\repositories\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|solutionrelative:hw15\\repositories\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|c:\\users\\notebook\\desktop\\hw - 15\\hw15\\hw15\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|solutionrelative:hw15\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|c:\\users\\notebook\\desktop\\hw - 15\\hw15\\hw15\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|solutionrelative:hw15\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|c:\\users\\notebook\\desktop\\hw - 15\\hw15\\hw15\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|solutionrelative:hw15\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|c:\\users\\notebook\\desktop\\hw - 15\\hw15\\hw15\\dtos\\verificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|solutionrelative:hw15\\dtos\\verificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|c:\\users\\notebook\\desktop\\hw - 15\\hw15\\hw15\\contract\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|solutionrelative:hw15\\contract\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|c:\\users\\notebook\\desktop\\hw - 15\\hw15\\hw15\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|solutionrelative:hw15\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|c:\\users\\notebook\\desktop\\hw - 15\\hw15\\hw15\\services\\transactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|solutionrelative:hw15\\services\\transactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|c:\\users\\notebook\\desktop\\hw - 15\\hw15\\hw15\\contract\\icardservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|solutionrelative:hw15\\contract\\icardservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|c:\\users\\notebook\\desktop\\hw - 15\\hw15\\hw15\\services\\cardservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|solutionrelative:hw15\\services\\cardservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|c:\\users\\notebook\\desktop\\hw - 15\\hw15\\hw15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794E99F5-E281-4E07-81CF-F0851B2E3482}|hw15\\hw15.csproj|solutionrelative:hw15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "hw15\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Services\\UserServices.cs",
+              "RelativeToolTip": "hw15\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:13:05.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Contract\\IUserServices.cs",
+              "RelativeDocumentMoniker": "hw15\\Contract\\IUserServices.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Contract\\IUserServices.cs",
+              "RelativeToolTip": "hw15\\Contract\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:51:06.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VerificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Dtos\\VerificationDto.cs",
+              "RelativeDocumentMoniker": "hw15\\Dtos\\VerificationDto.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Dtos\\VerificationDto.cs",
+              "RelativeToolTip": "hw15\\Dtos\\VerificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:40:16.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "hw15\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Entity\\User.cs",
+              "RelativeToolTip": "hw15\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:28:19.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "hw15\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "hw15\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:05:49.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Contract\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "hw15\\Contract\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Contract\\IUserRepository.cs",
+              "RelativeToolTip": "hw15\\Contract\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:24:51.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Repositories\\CardRepository.cs",
+              "RelativeDocumentMoniker": "hw15\\Repositories\\CardRepository.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Repositories\\CardRepository.cs",
+              "RelativeToolTip": "hw15\\Repositories\\CardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:45:57.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Contract\\ICardRepository.cs",
+              "RelativeDocumentMoniker": "hw15\\Contract\\ICardRepository.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Contract\\ICardRepository.cs",
+              "RelativeToolTip": "hw15\\Contract\\ICardRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:43:21.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionServices.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Services\\TransactionServices.cs",
+              "RelativeDocumentMoniker": "hw15\\Services\\TransactionServices.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Services\\TransactionServices.cs",
+              "RelativeToolTip": "hw15\\Services\\TransactionServices.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:19:05.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICardServices.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Contract\\ICardServices.cs",
+              "RelativeDocumentMoniker": "hw15\\Contract\\ICardServices.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Contract\\ICardServices.cs",
+              "RelativeToolTip": "hw15\\Contract\\ICardServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:13:03.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CardServices.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Services\\CardServices.cs",
+              "RelativeDocumentMoniker": "hw15\\Services\\CardServices.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Services\\CardServices.cs",
+              "RelativeToolTip": "hw15\\Services\\CardServices.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwEsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:09:55.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Program.cs",
+              "RelativeDocumentMoniker": "hw15\\Program.cs",
+              "ToolTip": "C:\\Users\\Notebook\\Desktop\\HW - 15\\hw15\\hw15\\Program.cs",
+              "RelativeToolTip": "hw15\\Program.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAYwJEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:57:20.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
